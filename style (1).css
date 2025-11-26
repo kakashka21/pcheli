@@ -1,0 +1,183 @@
+header {
+    border: 1,7px solid black;
+    background-color: #e6ac19;
+}
+
+.block {
+    margin: 20px 0 50px 220px;
+    overflow: hidden;
+}
+
+.active {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 24px;
+}
+
+.active1 {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 24px;
+}
+
+
+.active2 {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 24px;
+}
+
+.active3 {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 24px;
+}
+
+
+.active4 {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 24px;
+}
+
+.passiv {
+    float: left;
+    color:#e6ac19 ;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 24px;
+}
+
+nav {
+    display: flex;
+    width: 600px;
+
+}
+
+.container {
+    width: 500;
+    display:flex;
+    left: 170px;
+}
+
+main {
+    width: 660px;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+.left {
+    width: 600px;
+    margin-right: 3px;
+    padding: 20px;
+    margin-top: -3%;
+    
+}
+
+.right {
+    width: 400px;
+    margin-right: 20px;
+    padding: 20px;
+    rows: "5";
+    margin-top: -3%;
+}
+
+
+.text1 {
+    font-size: 20px;
+    text-align: justify;
+}
+
+.text2 {
+    font-size: 20px;
+    text-align: justify ;
+}
+
+.text3 {
+    font-size: 20px;
+    text-align: justify
+}
+
+.text4 {
+    font-size: 20px;
+    text-align:justify;
+}
+
+.text5 {
+    font-size: 20px;
+    text-align:justify;
+}
+
+.main_img-float {
+    width:550px;
+    margin-right: 40px;
+    float: center;
+    border: 1px solid #333;
+    padding: 7px;
+    margin: 10px 0 5px 5px;
+    text-align: justify;
+}
+
+.main_img-float1 {
+    width:550px;
+    margin-right: 40px;
+    float: center;
+    border: 1px solid #333;
+    padding: 7px;
+    margin: 10px 0 5px 5px;
+    text-align: justify;
+}
+
+
+     table {
+    border-collapse: collapse;
+    width: 600px;
+    margin-bottom: 20px;
+    border: 1px solid #dddddd
+    vertical-alig
+}
+th, td {
+    border: 1px solid black;
+    text-align: center;
+    padding: 5px;
+    font-weight: bold;
+    background: #efefef;
+    border: 1px solid #dddddd;
+}
+th {
+    background: #fc0;
+    height: 40px;
+    vertical-align: bottom;
+    padding: 0;
+    border: 1px solid #dddddd;
+}
+
+.navbar {
+    border: 1,7px solid black;
+    background-color: #e6ac19;
+}
+
+.panel {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 24px;
+}
